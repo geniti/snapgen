@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/snapgen/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/snapgen/static/js/main.abd01ccd.chunk.js",
+    "main.js.map": "/snapgen/static/js/main.abd01ccd.chunk.js.map",
+    "runtime-main.js": "/snapgen/static/js/runtime-main.d07e1a40.js",
+    "runtime-main.js.map": "/snapgen/static/js/runtime-main.d07e1a40.js.map",
+    "static/js/2.19a6def3.chunk.js": "/snapgen/static/js/2.19a6def3.chunk.js",
+    "static/js/2.19a6def3.chunk.js.map": "/snapgen/static/js/2.19a6def3.chunk.js.map",
+    "static/js/3.42669df7.chunk.js": "/snapgen/static/js/3.42669df7.chunk.js",
+    "static/js/3.42669df7.chunk.js.map": "/snapgen/static/js/3.42669df7.chunk.js.map",
+    "index.html": "/snapgen/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/snapgen/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.19a6def3.chunk.js.LICENSE.txt": "/snapgen/static/js/2.19a6def3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/snapgen/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d07e1a40.js",
+    "static/js/2.19a6def3.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.abd01ccd.chunk.js"
+  ]
+}
